@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WalleX</string>
+
+    <string name="Editor_Title">New Transaction</string>
+    <string name="editor_insert_money_failed">"Failed Transaction"</string>
+    <string name="editor_insert_money_successful">"Successful Transaction"</string>
+</resources>
